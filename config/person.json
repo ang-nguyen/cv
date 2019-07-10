@@ -2,8 +2,8 @@
   "__parent": "./config.json"
 , "person": {
     "name": {
-      "first": "Tomas"
-    , "last": "Baltrushaitis"
+      "first": "An"
+    , "last": "Dzo"
     , "full": "@{./last} @{./first}"
     }
   , "nick": "Tom&acute;AS"
