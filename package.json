@@ -22,7 +22,7 @@
     "node": ">=8.0.0"
   }
 , "os": ["linux"]
-, "main": ""
+, "main": "./src/index.html"
 , "scripts": {
     "preinstall":    "echo [PRE-INSTALL] --- "
   , "install":       "echo [INSTALL] --- "
